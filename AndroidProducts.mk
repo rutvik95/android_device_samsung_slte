@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/merk_slte.mk
+    $(LOCAL_DIR)/omni_slte.mk
